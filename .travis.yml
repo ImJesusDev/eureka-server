@@ -9,4 +9,4 @@ before_install:
     - mvn clean install
 
 script:
-    - docker build -t jdiaz/eureka-server .
+    - docker build -t jdiaz740/eureka-server .
